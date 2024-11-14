@@ -1,0 +1,13 @@
+__pycache__
+data/*
+!data/.gitkeep
+result/*
+!result/.gitkeep
+result/upload/*
+!result/upload/.gitkeep
+result/list/*
+!result/list/.gitkeep
+draft/*
+!draft/.gitkeep
+
+conf.yml
