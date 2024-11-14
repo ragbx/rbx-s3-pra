@@ -1,0 +1,11 @@
+path,name,key,size,uuid,checksum_md5
+test,test_0.txt,test/test_0.txt,0,3477ca8a4cbc4dfa83fa112aed9114fe,d41d8cd98f00b204e9800998ecf8427e
+test,test_1.txt,test/test_1.txt,1,9e96324c119345f7bfe75378f2019b0d,8f14e45fceea167a5a36dedd4bea2543
+test,test_2.txt,test/test_2.txt,2,aaf5705b0e69499a8d10c51fa4eee2ce,d3d9446802a44259755d38e6d163e820
+test,test_3.txt,test/test_3.txt,3,db6f330ef1fd4e11b2edc6e5f701a453,1534b76d325a8f591b52d302e7181331
+test,test_4.txt,test/test_4.txt,4,8cfec85bf1a84b189fa6cd2a9699760a,90610aa0e24f63ec6d2637e06f9b9af2
+test,test_5.txt,test/test_5.txt,5,92a18f0252da47208a8708ab46f33c71,32d08e8dcd9a87d9d786d9540ff76a50
+test,test_6.txt,test/test_6.txt,6,df52b8567c364621b5fba0d7ec1b28d0,545582544ccb2c776ade51d73ef26cda
+test,test_97.txt,test/test_7.txt,7,2507606f05ed420bb349717c3dfc23fa,17036730dbdfe0ef3024422b0b5943b2
+test,test_8.txt,test/test_8.txt,45,f1d39f6a49314ad3b84ed4ab5e7e8eef,9ec23119b0f786224c17b09af4663106
+test,test_9.txt,test/test_9.txt,9,ae5f355d16a9411586c0b156788ced8e,279e1ede35eb83061e593823d85e0484
