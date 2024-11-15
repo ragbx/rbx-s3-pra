@@ -11,3 +11,5 @@ draft/*
 !draft/.gitkeep
 
 conf.yml
+
+nohup.out
