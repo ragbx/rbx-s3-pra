@@ -8,8 +8,8 @@ from datetime import datetime
 import concurrent.futures
 from tqdm import tqdm
 
-input_folder = join('data', 'pra_20240916_ok2s3_short_split', 'en_traitement')
-prefix = '\\\\ntrbx.local\mediatheque\BNR'
+input_folder = join('data', 'pra_20240916_ok2s3_short_split', 'en_traitement2')
+prefix = '/home/kibini//bnr'
 
 USER = 'user_rw'
 bucket = 'mediatheque-patarch-communicable'
